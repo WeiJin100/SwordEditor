@@ -34,7 +34,7 @@
     "trailingComma": "es5"
   },
   "name": "@lemopo/z-editor",
-  "author": "zlp",
+  "author": "zlipeng",
   "module": "dist/z-editor.esm.js",
   "size-limit": [
     {
