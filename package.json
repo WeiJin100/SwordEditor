@@ -3,6 +3,15 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "author": {
+    "name": "zlipeng",
+    "email": "zlipeng00@gmail.com",
+    "url": "https://github.com/zlipeng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeiJin100/SwordEditor.git"
+  },
   "files": [
     "dist",
     "src"
@@ -34,7 +43,6 @@
     "trailingComma": "es5"
   },
   "name": "@lemopo/z-editor",
-  "author": "zlipeng",
   "module": "dist/z-editor.esm.js",
   "size-limit": [
     {
